@@ -1,0 +1,42 @@
+body {
+    background-color:white;
+}
+
+div{
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+h1{
+color: rebeccapurple;
+text-align: center;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: blanchedalmond;
+}
+.list {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue
+}
+
+ section{
+background-color: lightgray;
+padding:5px;
+margin-bottom: 5px;
+}
+
+.img-canned {
+    width: 150px;
+}
+
+.img-fries {
+    width: 125px;
+
+}
+  
